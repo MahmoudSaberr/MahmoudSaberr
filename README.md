@@ -24,11 +24,21 @@ I have extensive expertise in:
 ---
 
 ## 🎓 Licenses & Certifications
-- ✅ **Advanced Flutter Development** - Orange Digital Center Egypt
-- ✅ **Flutter & Dart – Complete Course** - Udemy
-- ✅ **Clean Architecture in Flutter** - Udemy
-- ✅ **Android Application Development** - ITI
-- ✅ **Deep Dive into Clean Architecture in Flutter** - Udemy
+- ✅ [**Flutter Payment Integration: Stripe, PayPal & More**](https://udemy-certificate.s3.amazonaws.com/image/UC-107833ca-94c4-4c58-a78f-ed56b2299a3d.jpg) - Udemy
+- ✅ [**Flutter App Creation: Google Maps Integration Guide [Arabic]**](https://udemy-certificate.s3.amazonaws.com/image/UC-4f6e3e8b-9ae6-48ec-ba36-b8142b8e34b6.jpg) - Udemy
+- ✅ [**Flutter Advanced Course - Payment gateway integration (AR)**](https://www.udemy.com/certificate/UC-0f148503-484a-4b2d-bc93-22ac2d7120ed/) - Udemy
+- ✅ [**Deep Dive into Clean Architecture in Flutter [Arabic]**](https://www.udemy.com/certificate/UC-dcdb126f-70f9-41e0-be19-52832cd1c559/) - Udemy
+- ✅ [**Introduction to the Internet of Things - IoT Value Chain**](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=2110&code=MVQOMSeMqR&qrcode=1) - MaharaTech
+- ✅ [**Flutter Advanced Course Bloc and MVVM Pattern [Arabic][2023]**](https://www.udemy.com/certificate/UC-051101de-878b-4fe1-95b1-4b751e76cdfa/) - Udemy
+- ✅ [**Flutter Workshop ODCE**](https://drive.google.com/file/d/1Bf7D8Z2hxEqoLxTv2CcgyZIbpiGlVYZC/view?usp=sharing) - Orange Digital Center
+- ✅ [**Java**](https://www.sololearn.com/certificates/course/en/26623105/1068/landscape/png) - SoloLearn
+- ✅ [**The Complete 2022 Flutter & Dart Development Course [Arabic]**](http://ude.my/UC-f832a342-ff59-429c-850f-3965900612bb) - Udemy
+- ✅ [**Mobile Development Internship**](https://truecertificates.com/verified/NAEAL4WN39) - The Sparks Foundation
+- ✅ [**Database Fundamentals**](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=162686&code=5iKACNdMYf&qrcode=1) - MaharaTech
+- ✅ [**Developing Mobile Applications for Android using Java**](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=2127&code=fdqA17ZiJa&qrcode=1) - MaharaTech
+- ✅ [**Freelancing Basics**](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1788&code=1pBYcIx5XD&qrcode=1) - MaharaTech
+- ✅ [**Getting started as a freelancer (Upwork)**](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=2112&code=0XecW3k41S&qrcode=1) - MaharaTech
+- ✅ [**Java Development SE**](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=2125&code=dixsvZNbv4&qrcode=1) - ITIMooca
 
 ---
 
