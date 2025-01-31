@@ -19,16 +19,16 @@ I have extensive expertise in:
 - 🎓 **Graduate of Computers & Artificial Intelligence, Benha University** (GPA: 3.34, Very Good)
 - 🚀 **Contributor** to Google Solution Challenge Egypt
 - 🏅 Participated in **Egypt IoT & AI Challenge**
+- 🏆 **Challenger** at the **Ministry of Youth & Sports of Egypt – Creativity Festival (Season 11)**
 
 ---
 
-## 🛠 Languages and Tools
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🎓 Licenses & Certifications
+- ✅ **Advanced Flutter Development** - Orange Digital Center Egypt
+- ✅ **Flutter & Dart – Complete Course** - Udemy
+- ✅ **Clean Architecture in Flutter** - Udemy
+- ✅ **Android Application Development** - ITI
+- ✅ **Deep Dive into Clean Architecture in Flutter** - Udemy
 
 ---
 
